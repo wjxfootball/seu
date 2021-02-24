@@ -17,7 +17,7 @@
       "score": 8,
       "events": [
         {"type": "penalty", "time": 4, "player": "钟志千（人文）"}
-        ,{"type": "yellow", "time": 19, "player": "钟志千（人文）"}
+        ,{"type": "goal", "time": 19, "player": "钟志千（人文）"}
         ,{"type": "goal", "time": 36, "player": "钟志千（人文）"}
         ,{"type": "goal", "time": 62, "player": "龚培原"}
         ,{"type": "goal", "time": 70, "player": "龚培原"}
