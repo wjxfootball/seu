@@ -1,0 +1,104 @@
+{
+    "display_name": "613111大三高工",
+    "description": "健雄杯参赛三次全部打入决赛，并在2013年以不败战绩夺冠",
+    "logo": "613111/logo.png",
+    "image": "613111/team.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "王鸣轩",
+                "img": "613111/wmx.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 6
+            }
+            ,{
+                "number": 14,
+                "name": "张伟铮",
+                "img": "613111/zwz.jpg",
+                "position": "后卫",
+                "locator": "RCB",
+                "played": 4
+            }
+            ,{
+                "number": 16,
+                "name": "熊宽晨",
+                "img": "613111/xkc.jpg",
+                "position": "后卫",
+                "locator": "LB",
+                "played": 6
+            }
+            ,{
+                "number": 55,
+                "name": "狄学长",
+                "img": "613111/ss.jpg",
+                "position": "后卫",
+                "locator": "RWB",
+                "played": 6
+            }
+            ,{
+                "number": 4,
+                "name": "潘登",
+                "img": "613111/pd.jpg",
+                "position": "中场",
+                "locator": "CDM",
+                "played": 6
+            }
+            ,{
+                "number": 9,
+                "name": "沙奔",
+                "img": "613111/sb.jpg",
+                "position": "中场",
+                "locator": "LCM",
+                "played": 6
+            }
+            ,{
+                "number": 10,
+                "name": "吉相冰",
+                "img": "613111/jxb.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 6
+            }
+            ,{
+                "number": 11,
+                "name": "陈晨",
+                "img": "613111/cc.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 3
+            }
+        ],
+        "subs": [
+            {
+                "number": 31,
+                "name": "孙聪",
+                "img": "613111/sc.jpg",
+                "position": "中场",
+                "played": 1
+            }
+            ,{
+                "number": 5,
+                "name": "吴瀚",
+                "img": "613111/wh.jpg",
+                "position": "后卫",
+                "played": 3
+            }
+            ,{
+                "number": 3,
+                "name": "朱思宇",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "played": 2
+            }
+            ,{
+                "number": 37,
+                "name": "刘念泽",
+                "img": "613111/lnz.jpg",
+                "position": "后卫",
+                "played": 0
+            }
+        ]
+    }
+}

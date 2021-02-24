@@ -1,0 +1,75 @@
+{
+    "display_name": "611131大一机械",
+    "description": "以刘明明为核心的球队",
+    "logo": "placeholder-club.jpg",
+    "image": "611131/team.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 98,
+                "name": "杨宇宸",
+                "img": "611131/yyc.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 3
+            }
+            ,{
+                "number": 12,
+                "name": "孙一洲",
+                "img": "611131/syz.jpg",
+                "position": "后卫",
+                "locator": "LCB",
+                "played": 3
+            }
+            ,{
+                "number": 6,
+                "name": "凌晨",
+                "img": "611131/lc.jpg",
+                "position": "后卫",
+                "locator": "RB",
+                "played": 3
+            }
+            ,{
+                "number": 21,
+                "name": "宋雨遥",
+                "img": "611131/syy.jpg",
+                "position": "后卫",
+                "locator": "RDM"
+            }
+            ,{
+                "number": 18,
+                "name": "刘明明",
+                "img": "611131/lmm.jpg",
+                "position": "中场",
+                "locator": "CM",
+                "played": 3
+            }
+            ,{
+                "number": 8,
+                "name": "高峥",
+                "img": "611131/gz.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 3
+            }
+            ,{
+                "number": 7,
+                "name": "李睿",
+                "img": "611131/lr.jpg",
+                "position": "前锋",
+                "locator": "RW",
+                "played": 3
+            }
+            ,{
+                "number": 9,
+                "name": "李浩",
+                "img": "611131/lh.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 3
+            }
+        ],
+        "subs": [
+        ]
+    }
+}

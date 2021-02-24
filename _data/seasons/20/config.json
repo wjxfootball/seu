@@ -1,0 +1,32 @@
+{
+  "display_name": "20/21赛季",
+  "type": "group + knockout",
+  "group_stage": {
+    "A": [
+    ],
+    "B": [
+    ],
+    "C": [
+    ]
+  },
+  "knockout_stage": [
+    [
+      [],
+      
+      [],
+
+      [],
+
+      []
+    ],
+    [
+      [],
+      
+      []
+    ],
+    [
+      []
+    ]
+  ],
+  "rules": ""
+}
