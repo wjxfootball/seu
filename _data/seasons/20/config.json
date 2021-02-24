@@ -1,5 +1,5 @@
 {
-  "display_name": "20/21赛季",
+  "display_name": "20新生杯",
   "type": "group + knockout",
   "group_stage": {
     "A": [
@@ -7,6 +7,8 @@
     "B": [
     ],
     "C": [
+    ],
+    "D": [
     ]
   },
   "knockout_stage": [
