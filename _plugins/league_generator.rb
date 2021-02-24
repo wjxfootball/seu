@@ -37,7 +37,7 @@ module League
     end
 
     class GamePage < Jekyll::Page
-        def initialize(site, base, dir, game)
+        def initialize(site, base, dir, key, game)
             @site = site
             @base = base
             @dir = dir
@@ -47,6 +47,7 @@ module League
             self.read_yaml(File.join(base, '_layouts'), 'game.html')
             
 
+            self.data['key'] = key
             self.data['game'] = game
             # self.data['home_team'] = home_team
             # self.data['away_team'] = away_team
@@ -375,7 +376,7 @@ module League
                         end
                     end
 
-                    site.pages << GamePage.new(site, site.source, File.join('seasons', season[0], 'games', key), game)
+                    site.pages << GamePage.new(site, site.source, File.join('seasons', season[0], 'games', key), key, game)
                 end
 
 
