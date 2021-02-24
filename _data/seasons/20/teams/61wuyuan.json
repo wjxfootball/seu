@@ -1,0 +1,132 @@
+{
+    "display_name": "吴院",
+    "description": "20赛季新生杯吴院人文艺术联队队史首次夺冠！",
+    "logo": "61wuyuan/logo.png",
+    "image": "61wuyuan/20/team.png",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "黄家懿",
+                "img": "61wuyuan/20/hjy.png",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
+                "number": 18,
+                "name": "李常郡",
+                "img": "61wuyuan/20/lcj.png",
+                "position": "后卫",
+                "locator": "RB"
+            }
+            ,{
+                "number": 22,
+                "name": "罗志宇",
+                "img": "61wuyuan/20/lzy.png",
+                "position": "后卫",
+                "locator": "RCB"
+            }
+            ,{
+                "number": 5,
+                "name": "刘仁韬",
+                "img": "61wuyuan/20/lrt.png",
+                "position": "后卫",
+                "locator": "LCB"
+            }
+            ,{
+                "number": 13,
+                "name": "周任坤",
+                "img": "61wuyuan/20/zrk.png",
+                "position": "后卫",
+                "locator": "LB"
+            }
+            ,{
+                "number": 21,
+                "name": "叶子良",
+                "img": "61wuyuan/20/yzl.png",
+                "position": "中场",
+                "locator": "LM"
+            }
+            ,{
+                "number": 10,
+                "name": "李锋",
+                "img": "61wuyuan/20/lf.png",
+                "position": "中场",
+                "locator": "RM"
+            }
+            ,{
+                "number": 33,
+                "name": "史策（人文）",
+                "img": "61wuyuan/20/sc.png",
+                "position": "前锋",
+                "locator": "LW"
+            }
+            ,{
+                "number": 7,
+                "name": "涂嘉航",
+                "img": "61wuyuan/20/tjh.png",
+                "position": "前锋",
+                "locator": "RW"
+            }
+            ,{
+                "number": 8,
+                "name": "钟志千（人文）",
+                "img": "61wuyuan/20/zzq.png",
+                "position": "中场",
+                "locator": "CDM"
+            }
+            ,{
+                "number": 20,
+                "name": "龚培原",
+                "img": "61wuyuan/20/gpy.png",
+                "position": "前锋",
+                "locator": "ST"
+            }
+        ],
+        "subs": [
+            {
+                "number": 17,
+                "name": "顾严鹏",
+                "img": "61wuyuan/20/gyp.png",
+                "position": "后卫",
+            }
+            ,{
+                "number": 4,
+                "name": "崔家盛",
+                "img": "61wuyuan/20/cjs.png",
+                "position": "后卫"
+            }
+            ,{
+                "number": 3,
+                "name": "胡葆春（人文）",
+                "position": "后卫",
+                "img": "61wuyuan/20/hbc.png",
+                "locator": "RCB"
+            }
+            ,{
+                "number": 14,
+                "name": "江昊成",
+                "img": "61wuyuan/20/jhc.png",
+                "position": "中场"
+            }
+            ,{
+                "number": 12,
+                "name": "张嘉龙",
+                "img": "61wuyuan/20/zjl.png",
+                "position": "中场"
+            }
+            ,{
+                "number": 9,
+                "name": "丁梓健",
+                "img": "61wuyuan/20/dzj.png",
+                "position": "前锋"
+            }
+            ,{
+                "number": 16,
+                "name": "谯彦康",
+                "img": "61wuyuan/20/qyk.png",
+                "position": "前锋"
+            }
+        ]
+    }
+}

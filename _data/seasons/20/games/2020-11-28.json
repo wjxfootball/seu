@@ -1,0 +1,37 @@
+{
+  "date": "2020/11/28/16:00",
+  "type": "final",
+  "video": "%3Ciframe+src%3D%22%2F%2Fplayer.bilibili.com%2Fplayer.html%3Faid%3D627918079%26bvid%3DBV1Qt4y1a7qG%26cid%3D260696271%26page%3D1%22+scrolling%3D%22no%22+border%3D%220%22+frameborder%3D%22no%22+framespacing%3D%220%22+allowfullscreen%3D%22true%22+width%3D%22600px%22+height%3D%22500px%22%3E+%3C%2Fiframe%3E",
+  "images": [
+    "1.png",
+    "2.png",
+    "3.png",
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png"
+  ],
+  "home": {
+      "key": "21jiaotong",
+      "score": 0,
+      "events": [
+        {"type": "off", "time": 27, "player": "王乐俊"},
+        {"type": "sub", "time": 27, "player": "张义诚"},
+
+        {"type": "off", "time": 70, "player": "牛柏乔"},
+        {"type": "sub", "time": 70, "player": "侯正升"},
+
+        {"type": "off", "time": 78, "player": "吴鑫伟"},
+        {"type": "sub", "time": 78, "player": "周彦钊"}
+      ]
+  },
+  "away": {
+      "key": "61wuyuan",
+      "score": 1,
+      "events": [
+          {"type": "goal", "time": 52, "player": "史策（人文）"}
+          ,{"type": "off", "time": 80, "player": "丁梓健"}
+          ,{"type": "sub", "time": 80, "player": "谯彦康"}
+      ]
+  }
+}

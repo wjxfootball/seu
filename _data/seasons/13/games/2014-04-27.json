@@ -1,0 +1,36 @@
+{
+  "date": "2014/04/27/12:00",
+  "type": "1/4-final",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8.jpg",
+    "9.jpg",
+    "10.jpg",
+    "12.jpg",
+    "13.jpg",
+    "14.jpg"
+  ],
+  "home": {
+      "key": "61wuyuan",
+      "score": 4,
+      "events": [
+        {"type": "goal", "time": 15, "player": "狄学长"}
+        ,{"type": "penalty", "time": 25, "player": "吕力兢"}
+        ,{"type": "goal", "time": 35, "player": "吉相冰"}
+        ,{"type": "goal", "time": 55, "player": "胡江南"}
+      ]
+  },
+  "away": {
+      "key": "10wuli",
+      "score": 1,
+      "events": [
+          {"type": "goal", "time": 75, "player": "??"}
+      ]
+  }
+}

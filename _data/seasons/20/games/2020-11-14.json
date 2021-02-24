@@ -1,0 +1,27 @@
+{
+  "date": "2020/11/14/17:00",
+  "type": "1/2-final",
+  "images": [
+  ],
+  "home": {
+      "key": "42gongwei",
+      "score": 0,
+      "events": [
+        {"type": "red", "time": 33, "player": "叶尔加那提·阿达勒"}
+
+        ,{"type": "off", "time": 60, "player": "徐崧淳"}
+        ,{"type": "sub", "time": 60, "player": "唐厚一"}
+      ]
+  },
+  "away": {
+      "key": "61wuyuan",
+      "score": 3,
+      "events": [
+          {"type": "goal", "time": 51, "player": "史策（人文）"}
+          ,{"type": "goal", "time": 80, "player": "史策（人文）"}
+          ,{"type": "off", "time": 84, "player": "叶子良"}
+          ,{"type": "sub", "time": 84, "player": "张嘉龙"}
+          ,{"type": "goal", "time": 86, "player": "史策（人文）"}
+      ]
+  }
+}

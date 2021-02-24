@@ -3,12 +3,25 @@
   "type": "group + knockout",
   "group_stage": {
     "A": [
+      "16dianqi",
+      "03nenghuan",
+      "06dianzi"
     ],
     "B": [
+      "05tumu",
+      "42gongwei",
+      "71yixueyuan"
     ],
     "C": [
+      "02jixie",
+      "14jingguan",
+      "21jiaotong"
     ],
     "D": [
+      "08zidonghua",
+      "04xinxi",
+      "09jiruan",
+      "61wuyuan"
     ]
   },
   "knockout_stage": [
@@ -22,13 +35,14 @@
       []
     ],
     [
-      [],
+      ["16dianqi", "21jiaotong", "2020-11-15"],
       
-      []
+      ["42gongwei", "61wuyuan", "2020-11-14"]
     ],
     [
-      []
+      ["21jiaotong", "61wuyuan", "2020-11-28"]
     ]
   ],
+  "winner": "61wuyuan",
   "rules": ""
 }
