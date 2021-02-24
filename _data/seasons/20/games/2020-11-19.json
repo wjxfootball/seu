@@ -1,0 +1,51 @@
+{
+  "date": "2020/11/19/18:00",
+  "type": "third-place-playoff",
+  "images": [
+  ],
+  "home": {
+      "key": "16dianqi",
+      "score": 1,
+      "events": [
+        {"type": "goal", "time": 35, "player": "袁磊"}
+
+        ,{"type": "off", "time": 40, "player": "张绍康"}
+        ,{"type": "sub", "time": 40, "player": "李瑞杰"}
+        ,{"type": "off", "time": 40, "player": "夏文天"}
+        ,{"type": "sub", "time": 40, "player": "张靖航"}
+        ,{"type": "off", "time": 40, "player": "郝禹智"}
+        ,{"type": "sub", "time": 40, "player": "储善超"}
+
+        ,{"type": "off", "time": 63, "player": "庄有智"}
+        ,{"type": "sub", "time": 63, "player": "冯嘉彤"}
+        ,{"type": "off", "time": 63, "player": "李瑞杰"}
+        ,{"type": "sub", "time": 63, "player": "刘硕"}
+      ]
+  },
+  "away": {
+      "key": "42gongwei",
+      "score": 5,
+      "events": [
+          {"type": "goal", "time": 16, "player": "陈思宏"}
+
+          ,{"type": "goal", "time": 25, "player": "陈思宏"}
+          ,{"type": "goal", "time": 40, "player": "刘宪"}
+
+          ,{"type": "off", "time": 40, "player": "詹彤"}
+          ,{"type": "sub", "time": 40, "player": "曹晨阳"}
+          ,{"type": "off", "time": 50, "player": "吴东泽"}
+          ,{"type": "sub", "time": 50, "player": "王剑峰"}
+
+          ,{"type": "goal", "time": 58, "player": "吴煜霄"}
+
+          ,{"type": "off", "time": 61, "player": "唐厚一"}
+          ,{"type": "sub", "time": 61, "player": "周清扬"}
+          ,{"type": "off", "time": 61, "player": "施奕帆"}
+          ,{"type": "sub", "time": 61, "player": "郑致远"}
+
+          ,{"type": "goal", "time": 63, "player": "陈思宏"}
+
+          
+      ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2020/11/10/12:00",
+  "type": "group-r2",
+  "images": [
+  ],
+  "home": {
+      "key": "04xinxi",
+      "score": 0,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "61wuyuan",
+      "score": 2,
+      "events": [
+        {"type": "penalty", "time": 44, "player": "叶子良"}
+        ,{"type": "yellow", "time": 60, "player": "叶子良"}
+        ,{"type": "goal", "time": 78, "player": "龚培原"}
+      ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2020/11/06/12:00",
+  "type": "group-r2",
+  "images": [
+  ],
+  "home": {
+      "key": "71yixueyuan",
+      "score": 0,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "05tumu",
+      "score": 5,
+      "events": [
+        {"type": "goal", "time": 2, "player": "李昕飞"}
+        ,{"type": "goal", "time": 47, "player": "余博阳"}
+        ,{"type": "goal", "time": 54, "player": "希热扎提"}
+        ,{"type": "goal", "time": 56, "player": "格桑多杰"}
+        ,{"type": "goal", "time": 63, "player": "希热扎提"}
+      ]
+  }
+}

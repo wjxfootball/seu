@@ -7,9 +7,7 @@
       "key": "16dianqi",
       "score": 0,
       "events": [
-        {"type": "red", "time": 70, "player": "叶尔加那提·阿达勒"}
-
-        ,{"type": "off", "time": 30, "player": "荚秀郅"}
+        {"type": "off", "time": 30, "player": "荚秀郅"}
         ,{"type": "sub", "time": 30, "player": "干顺珺"}
         ,{"type": "off", "time": 30, "player": "玉散·库尔班"}
         ,{"type": "sub", "time": 30, "player": "刘硕"}
@@ -39,7 +37,7 @@
 
           ,{"type": "goal", "time": 41, "player": "伊斯马·伊力"}
           ,{"type": "goal", "time": 52, "player": "伊斯马·伊力"}
-          ,{"type": "penalty", "time": 60, "player": "杨沈凌悦"}
+          ,{"type": "penalty", "time": 60, "player": "杨沈凌锐"}
 
           ,{"type": "off", "time": 72, "player": "伊斯马·伊力"}
           ,{"type": "sub", "time": 72, "player": "周彦钊"}
@@ -48,7 +46,7 @@
           ,{"type": "off", "time": 72, "player": "牛柏乔"}
           ,{"type": "sub", "time": 72, "player": "侯正升"}
 
-          ,{"type": "goal", "time": 78, "player": "杨沈凌悦"}
+          ,{"type": "goal", "time": 78, "player": "杨沈凌锐"}
       ]
   }
 }

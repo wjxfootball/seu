@@ -1,0 +1,29 @@
+{
+  "date": "2020/11/01/12:00",
+  "type": "group-r1",
+  "images": [
+  ],
+  "home": {
+      "key": "04xinxi",
+      "score": 0,
+      "events": [
+        {"type": "yellow", "time": 35, "player": "杨靖"}
+        ,{"type": "yellow", "time": 45, "player": "冀广宇"}
+        ,{"type": "yellow", "time": 84, "player": "陈闵恒"}
+      ]
+  },
+  "away": {
+      "key": "61wuyuan",
+      "score": 8,
+      "events": [
+        {"type": "penalty", "time": 4, "player": "钟志千（人文）"}
+        ,{"type": "yellow", "time": 19, "player": "钟志千（人文）"}
+        ,{"type": "goal", "time": 36, "player": "钟志千（人文）"}
+        ,{"type": "goal", "time": 62, "player": "龚培原"}
+        ,{"type": "goal", "time": 70, "player": "龚培原"}
+        ,{"type": "goal", "time": 86, "player": "涂嘉航"}
+        ,{"type": "goal", "time": 87, "player": "史策（人文）"}
+        ,{"type": "goal", "time": 90, "player": "江昊成"}
+      ]
+  }
+}

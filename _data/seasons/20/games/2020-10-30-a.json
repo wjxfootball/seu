@@ -1,0 +1,24 @@
+{
+  "date": "2020/10/30/12:00",
+  "type": "group-r1",
+  "images": [
+  ],
+  "home": {
+      "key": "03nenghuan",
+      "score": 4,
+      "events": [
+        {"type": "goal", "time": 5, "player": "张子哲"}
+        ,{"type": "goal", "time": 10, "player": "温鑫"}
+        ,{"type": "penalty", "time": 15, "player": "毕韬苒"}
+        ,{"type": "goal", "time": 75, "player": "孙志远"}
+      ]
+  },
+  "away": {
+      "key": "06dianzi",
+      "score": 1,
+      "events": [
+        {"type": "yellow", "time": 32, "player": "张潼"}
+        ,{"type": "goal", "time": 37, "player": "刘羽柠"}
+      ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2020/11/07/18:00",
+  "type": "group-r2",
+  "images": [
+  ],
+  "home": {
+      "key": "21jiaotong",
+      "score": 4,
+      "events": [
+        {"type": "goal", "time": 26, "player": "伊斯马·伊力"}
+        ,{"type": "penalty", "time": 44, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 47, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 65, "player": "伊斯马·伊力"}
+      ]
+  },
+  "away": {
+    "key": "02jixie",
+    "score": 3,
+    "events": [
+      {"type": "goal", "time": 5, "player": "池骋"}
+      ,{"type": "goal", "time": 75, "player": "开沙尔"}
+      ,{"type": "goal", "time": 78, "player": "开沙尔"}
+    ]
+  }
+}

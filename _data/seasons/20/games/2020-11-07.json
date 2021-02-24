@@ -1,0 +1,24 @@
+{
+  "date": "2020/11/07/12:00",
+  "type": "group-r3",
+  "images": [
+  ],
+  "home": {
+      "key": "06dianzi",
+      "score": 0,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "16dianqi",
+      "score": 5,
+      "events": [
+        {"type": "goal", "time": 2, "player": "张子哲"}
+        ,{"type": "goal", "time": 48, "player": "袁磊"}
+        ,{"type": "goal", "time": 52, "player": "杨景涵"}
+        ,{"type": "goal", "time": 67, "player": "袁磊"}
+        ,{"type": "goal", "time": 79, "player": "玉散·库尔班"}
+        ,{"type": "yellow", "time": 60, "player": "张靖航"}
+      ]
+  }
+}

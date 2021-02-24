@@ -1,0 +1,20 @@
+{
+  "date": "2020/11/11/12:30",
+  "type": "group-r3",
+  "images": [
+  ],
+  "home": {
+      "key": "04xinxi",
+      "score": 0,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "09jiruan",
+      "score": 2,
+      "events": [
+        {"type": "goal", "time": 2, "player": "汪啸炎"}
+        ,{"type": "penalty", "time": 39, "player": "李思诚"}
+      ]
+  }
+}

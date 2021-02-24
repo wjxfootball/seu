@@ -8,14 +8,14 @@
       "06dianzi"
     ],
     "B": [
-      "05tumu",
-      "42gongwei",
-      "71yixueyuan"
-    ],
-    "C": [
       "02jixie",
       "14jingguan",
       "21jiaotong"
+    ],
+    "C": [
+      "05tumu",
+      "42gongwei",
+      "71yixueyuan"
     ],
     "D": [
       "08zidonghua",
@@ -26,15 +26,6 @@
   },
   "knockout_stage": [
     [
-      [],
-      
-      [],
-
-      [],
-
-      []
-    ],
-    [
       ["16dianqi", "21jiaotong", "2020-11-15"],
       
       ["42gongwei", "61wuyuan", "2020-11-14"]
@@ -44,5 +35,5 @@
     ]
   ],
   "winner": "61wuyuan",
-  "rules": ""
+  "rules": "小组头名晋级"
 }

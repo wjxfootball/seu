@@ -1,0 +1,25 @@
+{
+  "date": "2020/11/10/18:00",
+  "type": "group-r3",
+  "images": [
+  ],
+  "home": {
+      "key": "61wuyuan",
+      "score": 6,
+      "events": [
+        {"type": "goal", "time": 15, "player": "谯彦康"}
+        ,{"type": "goal", "time": 18, "player": "史策（人文）"}
+        ,{"type": "goal", "time": 40, "player": "涂嘉航"}
+        ,{"type": "goal", "time": 47, "player": "涂嘉航"}
+        ,{"type": "goal", "time": 65, "player": "江昊成"}
+        ,{"type": "goal", "time": 77, "player": "李锋"}
+      ]
+  },
+  "away": {
+      "key": "08zidonghua",
+      "score": 0,
+      "events": [
+        {"type": "yellow", "time": 45, "player": "韦卓帆"}
+      ]
+  }
+}

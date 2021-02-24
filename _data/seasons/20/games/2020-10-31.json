@@ -1,0 +1,24 @@
+{
+  "date": "2020/10/31/12:30",
+  "type": "group-r1",
+  "images": [
+  ],
+  "home": {
+      "key": "08zidonghua",
+      "score": 1,
+      "events": [
+        {"type": "yellow", "time": 23, "player": "赵世星"}
+      ]
+  },
+  "away": {
+      "key": "04xinxi",
+      "score": 5,
+      "events": [
+        {"type": "goal", "time": 11, "player": "赵恒"}
+        ,{"type": "goal", "time": 17, "player": "赵恒"}
+        ,{"type": "goal", "time": 44, "player": "吴航"}
+        ,{"type": "penalty", "time": 70, "player": "朱彦霖"}
+        ,{"type": "goal", "time": 76, "player": "高韶驿"}
+      ]
+  }
+}

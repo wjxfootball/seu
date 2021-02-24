@@ -1,0 +1,26 @@
+{
+  "date": "2020/11/04/12:00",
+  "type": "group-r2",
+  "images": [
+  ],
+  "home": {
+      "key": "16dianqi",
+      "score": 3,
+      "events": [
+        {"type": "goal", "time": 4, "player": "张子哲"}
+        ,{"type": "goal", "time": 20, "player": "袁磊"}
+        ,{"type": "yellow", "time": 20, "player": "玉散·库尔班"}
+        ,{"type": "yellow", "time": 35, "player": "刘硕"}
+        ,{"type": "goal", "time": 83, "player": "张子哲"}
+      ]
+  },
+  "away": {
+      "key": "03nenghuan",
+      "score": 2,
+      "events": [
+        {"type": "goal", "time": 13, "player": "温鑫"}
+        ,{"type": "penalty", "time": 37, "player": "张靖航"}
+        ,{"type": "yellow", "time": 55, "player": "黄思源"}
+      ]
+  }
+}

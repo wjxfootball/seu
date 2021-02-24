@@ -1,0 +1,31 @@
+{
+  "date": "2020/11/11/12:00",
+  "type": "group-r3",
+  "images": [
+  ],
+  "home": {
+      "key": "42gongwei",
+      "score": 13,
+      "events": [
+        {"type": "goal", "time": 3, "player": "库德来提"}
+        ,{"type": "goal", "time": 7, "player": "林国庆"}
+        ,{"type": "goal", "time": 15, "player": "刘宪"}
+        ,{"type": "goal", "time": 33, "player": "陈思宏"}
+        ,{"type": "goal", "time": 36, "player": "叶尔加那提·阿达勒"}
+        ,{"type": "goal", "time": 39, "player": "陈思宏"}
+        ,{"type": "goal", "time": 45, "player": "林国庆"}
+        ,{"type": "goal", "time": 53, "player": "伍志成"}
+        ,{"type": "goal", "time": 56, "player": "陈思宏"}
+        ,{"type": "goal", "time": 57, "player": "陈思宏"}
+        ,{"type": "goal", "time": 65, "player": "叶尔加那提·阿达勒"}
+        ,{"type": "goal", "time": 73, "player": "林国庆"}
+        ,{"type": "goal", "time": 79, "player": "詹彤"}
+      ]
+  },
+  "away": {
+      "key": "71yixueyuan",
+      "score": 0,
+      "events": [
+      ]
+  }
+}

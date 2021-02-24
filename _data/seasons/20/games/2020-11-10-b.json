@@ -1,0 +1,25 @@
+{
+  "date": "2020/11/10/18:00",
+  "type": "group-r3",
+  "images": [
+  ],
+  "home": {
+      "key": "14jingguan",
+      "score": 0,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "21jiaotong",
+      "score": 7,
+      "events": [
+        {"type": "goal", "time": 1, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 13, "player": "钟汶哲"}
+        ,{"type": "goal", "time": 23, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 36, "player": "牛柏乔"}
+        ,{"type": "goal", "time": 39, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 41, "player": "伊斯马·伊力"}
+        ,{"type": "goal", "time": 56, "player": "杨沈凌锐"}
+      ]
+  }
+}

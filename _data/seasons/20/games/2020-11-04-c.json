@@ -1,0 +1,23 @@
+{
+  "date": "2020/11/04/12:00",
+  "type": "group-r1",
+  "images": [
+  ],
+  "home": {
+      "key": "05tumu",
+      "score": 1,
+      "events": [
+        {"type": "goal", "time": 71, "player": "高李铭"}
+      ]
+  },
+  "away": {
+      "key": "42gongwei",
+      "score": 4,
+      "events": [
+        {"type": "penalty", "time": 40, "player": "刘宪"}
+        ,{"type": "goal", "time": 54, "player": "叶尔加那提·阿达勒"}
+        ,{"type": "goal", "time": 60, "player": "叶尔加那提·阿达勒"}
+        ,{"type": "goal", "time": 80, "player": "叶尔加那提·阿达勒"}
+      ]
+  }
+}

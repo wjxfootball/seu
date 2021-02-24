@@ -1,0 +1,30 @@
+{
+  "date": "2020/10/31/12:30",
+  "type": "group-r1",
+  "images": [
+  ],
+  "home": {
+      "key": "02jixie",
+      "score": 12,
+      "events": [
+        {"type": "goal", "time": 14, "player": "开沙尔"}
+        ,{"type": "goal", "time": 24, "player": "伊克桑·阿力木"}
+        ,{"type": "goal", "time": 28, "player": "开沙尔"}
+        ,{"type": "goal", "time": 30, "player": "开沙尔"}
+        ,{"type": "goal", "time": 39, "player": "伊克桑·阿力木"}
+        ,{"type": "goal", "time": 45, "player": "伊克桑·阿力木"}
+        ,{"type": "goal", "time": 64, "player": "开沙尔"}
+        ,{"type": "goal", "time": 66, "player": "伊克桑·阿力木"}
+        ,{"type": "goal", "time": 68, "player": "开沙尔"}
+        ,{"type": "goal", "time": 71, "player": "开沙尔"}
+        ,{"type": "goal", "time": 78, "player": "开沙尔"}
+        ,{"type": "goal", "time": 80, "player": "伊克桑·阿力木"}
+      ]
+  },
+  "away": {
+      "key": "14jingguan",
+      "score": 0,
+      "events": [
+      ]
+  }
+}
