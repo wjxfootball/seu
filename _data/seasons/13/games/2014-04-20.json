@@ -27,8 +27,8 @@
       "score": 5,
       "events": [
         {"type": "goal", "time": 10, "player": "胡江南"}
-        ,{"type": "gaol", "time": 20, "player": "吕力兢"}
-        ,{"type": "gaol", "time": 25, "player": "吕力兢"}
+        ,{"type": "goal", "time": 20, "player": "吕力兢"}
+        ,{"type": "goal", "time": 25, "player": "吕力兢"}
         ,{"type": "goal", "time": 35, "player": "吉相冰"}
         ,{"type": "goal", "time": 50, "player": "狄学长"}
       ]
