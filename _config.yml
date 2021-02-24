@@ -18,7 +18,7 @@ author: 狄学长shrekshao
 # email: sul@sul.com
 description: >- # this means to ignore newlines until "baseurl:"
   东南大学吴健雄学院足球队，我们自己的足球文化
-baseurl: "/jxcup" # the subpath of your site, e.g. /blog
+baseurl: "/seu" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: zh
 languages: ["zh"]
