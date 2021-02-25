@@ -1,0 +1,36 @@
+{
+  "date": "2011/10/30/12:00",
+  "type": "1/4-final",
+  "extra": "点球(2:4)",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "8.jpg",
+    "9.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12.jpg",
+    "13.jpg",
+    "14.jpg",
+    "15.jpg",
+    "16.jpg",
+    "17.jpg"
+  ],
+  "home": {
+      "key": "61wuyuan",
+      "score": 1,
+      "events": [
+        {"type": "goal", "time": 65, "player": "吉相冰"}
+      ]
+  },
+  "away": {
+      "key": "16dianqi",
+      "score": 1,
+      "events": [
+          {"type": "goal", "time": 20, "player": "??"}
+      ]
+  }
+}

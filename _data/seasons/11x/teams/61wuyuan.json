@@ -1,0 +1,110 @@
+{
+    "display_name": "吴院",
+    "description": "踌躇满志的11赛季新生队，在1/8决赛点球淘汰卫冕冠军公卫后，同样以点球在下一轮输给了电气",
+    "logo": "61wuyuan/logo.png",
+    "image": "61wuyuan/11x/team.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 77,
+                "name": "刘超凡",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
+                "number": 2,
+                "name": "刘畅",
+                "img": "61wuyuan/14/lc.jpg",
+                "position": "后卫",
+                "locator": "RB"
+            }
+            ,{
+                "number": 3,
+                "name": "都之夏",
+                "img": "61wuyuan/14/dzx.jpg",
+                "position": "后卫",
+                "locator": "RCB"
+            }
+            ,{
+                "number": 16,
+                "name": "熊宽晨",
+                "img": "61wuyuan/14/xkc.jpg",
+                "position": "后卫",
+                "locator": "LCB"
+            }
+            ,{
+                "number": 55,
+                "name": "狄学长",
+                "img": "61wuyuan/14/ss.jpg",
+                "position": "后卫",
+                "locator": "LB"
+            }
+            ,{
+                "number": 4,
+                "name": "潘登",
+                "img": "61wuyuan/14/pd.jpg",
+                "position": "中场",
+                "locator": "LDM"
+            }
+            ,{
+                "number": 7,
+                "name": "张硕",
+                "position": "中场",
+                "locator": "RDM"
+            }
+            ,{
+                "number": 17,
+                "name": "胡江南",
+                "img": "61wuyuan/14/hjn.jpg",
+                "position": "前锋",
+                "locator": "CAM"
+            }
+            ,{
+                "number": 10,
+                "name": "吉相冰",
+                "img": "61wuyuan/14/jxb.jpg",
+                "position": "前锋",
+                "locator": "LW"
+            }
+            ,{
+                "number": 9,
+                "name": "沙奔",
+                "img": "61wuyuan/14/sb.jpg",
+                "position": "前锋",
+                "locator": "ST"
+            }
+            ,{
+                "number": 5,
+                "name": "周林峰",
+                "img": "61wuyuan/14/zlf.jpg",
+                "position": "万金油",
+                "locator": "RM"
+            }
+        ],
+        "subs": [
+            {
+                "number": 14,
+                "name": "周健",
+                "img": "61wuyuan/14/zj.jpg",
+                "position": "中场"
+            }
+            ,{
+                "number": 21,
+                "name": "刘念泽",
+                "img": "61wuyuan/14/lnz.jpg",
+                "position": "后卫"
+            }
+            ,{
+                "number": 24,
+                "name": "韩志",
+                "position": "中场"
+            }
+            ,{
+                "number": 8,
+                "name": "薛昊天",
+                "img": "61wuyuan/14/xht.jpg",
+                "position": "中场"
+            }
+        ]
+    }
+}
