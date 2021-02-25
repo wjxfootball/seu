@@ -19,7 +19,7 @@ module League
     end
 
     class TeamPage < Jekyll::Page
-        def initialize(site, base, dir, team_key, team, season_key, season)
+        def initialize(site, base, dir, team_key, team, season_key, season, history_stats)
             @site = site
             @base = base
             @dir = dir
@@ -33,6 +33,8 @@ module League
             self.data['team'] = team
             self.data['season_key'] = season_key
             self.data['season'] = season
+
+            self.data['history_stats'] = history_stats
         end
     end
 
@@ -282,6 +284,11 @@ module League
 
         def generate(site)
             # puts site.pages
+
+            # team_key => { season_key => stats }
+            site.data['history_teams_stats'] = Hash.new
+
+
             site.data['seasons'].each do |season|
                 # convert nilClass to array
 
@@ -332,6 +339,8 @@ module League
                     games_hash[key] = game
                     # puts key
                     # puts game
+
+                    # puts game['away']['key']
 
                     home_team = team_hash[game['home']['key']]
                     away_team = team_hash[game['away']['key']]
@@ -396,7 +405,7 @@ module League
                     stats_is_table = true
                 end
 
-
+                history_team_stats = site.data['history_teams_stats']
                 team_hash.each do |key, team|
 
                     team['player_hash'].each do |pk, p|
@@ -410,7 +419,15 @@ module League
                         team['table'] = team['stats']
                     end
 
-                    site.pages << TeamPage.new(site, site.source, File.join('seasons', season[0], key), key, team, season[0], season[1])
+                    if history_team_stats[key] == nil
+                        history_team_stats[key] = Hash.new
+                    end
+                    history_team_stats[key][season[0]] = team['stats']
+                    history_team_stats[key][season[0]]['season_key'] = season[0]
+                    history_team_stats[key][season[0]]['season_name'] = season_name
+                    history_team_stats[key][season[0]]['is_winner'] = config['winner'] == key
+
+                    # site.pages << TeamPage.new(site, site.source, File.join('seasons', season[0], key), key, team, season[0], season[1])
                 end
 
                 sorted_goal_scorers = (goal_scorers.sort_by { |p| [ -p['goals'], p['penalty'] ] })
@@ -436,7 +453,18 @@ module League
                 # puts games_pair
                 # season table page
                 
+            end # each season
+
+            site.data['seasons'].each do |season_key, season|
+                team_hash = season['teams']
+                team_hash.each do |team_key, team|
+                    history_stats = site.data['history_teams_stats'][team_key].to_a.reverse()
+                    site.pages << TeamPage.new(site, site.source, File.join('seasons', season_key, team_key), team_key, team, season_key, season, history_stats)
+                end
             end
+
+
+
         end
     end
 
