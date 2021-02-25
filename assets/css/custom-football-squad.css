@@ -211,3 +211,11 @@ table.playerlist td {
 .team-logo {
     width: 30px !important;
 }
+
+/* hack for embed video*/
+iframe {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    min-height: 350px;
+}

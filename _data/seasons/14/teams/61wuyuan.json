@@ -1,84 +1,84 @@
 {
     "display_name": "吴院",
-    "description": "13赛季作为全运会年分在小院组，本有机会创造历史，很可惜因最后时刻的角球乌龙被绝杀，倒在了半决赛上。",
+    "description": "14赛季作为全运会年分在小院组，本有机会创造历史，很可惜因最后时刻的角球乌龙被绝杀，倒在了半决赛上。",
     "logo": "61wuyuan/logo.png",
-    "image": "61wuyuan/13/team.jpg",
+    "image": "61wuyuan/14/team.jpg",
     "players": {
         "starting": [
             {
                 "number": 98,
                 "name": "杨宇宸",
-                "img": "61wuyuan/13/yyc.jpg",
+                "img": "61wuyuan/14/yyc.jpg",
                 "position": "门将",
                 "locator": "GK"
             }
             ,{
                 "number": 2,
                 "name": "刘畅",
-                "img": "61wuyuan/13/lc.jpg",
+                "img": "61wuyuan/14/lc.jpg",
                 "position": "后卫",
                 "locator": "LB"
             }
             ,{
                 "number": 43,
                 "name": "都之夏",
-                "img": "61wuyuan/13/dzx.jpg",
+                "img": "61wuyuan/14/dzx.jpg",
                 "position": "后卫",
                 "locator": "RCB"
             }
             ,{
                 "number": 36,
                 "name": "汤红健",
-                "img": "61wuyuan/13/thj.jpg",
+                "img": "61wuyuan/14/thj.jpg",
                 "position": "后卫",
                 "locator": "LCB"
             }
             ,{
                 "number": 12,
                 "name": "孙一洲",
-                "img": "61wuyuan/13/syz.jpg",
+                "img": "61wuyuan/14/syz.jpg",
                 "position": "后卫",
                 "locator": "RB"
             }
             ,{
                 "number": 8,
                 "name": "薛昊天",
-                "img": "61wuyuan/13/xht.jpg",
+                "img": "61wuyuan/14/xht.jpg",
                 "position": "中场",
                 "locator": "LDM"
             }
             ,{
                 "number": 18,
                 "name": "刘明明",
-                "img": "61wuyuan/13/lmm.jpg",
+                "img": "61wuyuan/14/lmm.jpg",
                 "position": "中场",
                 "locator": "RDM"
             }
             ,{
                 "number": 33,
                 "name": "胡江南",
-                "img": "61wuyuan/13/hjn.jpg",
+                "img": "61wuyuan/14/hjn.jpg",
                 "position": "前锋",
                 "locator": "RW"
             }
             ,{
                 "number": 10,
                 "name": "吉相冰",
-                "img": "61wuyuan/13/jxb.jpg",
+                "img": "61wuyuan/14/jxb.jpg",
                 "position": "前锋",
                 "locator": "LW"
             }
             ,{
                 "number": 77,
                 "name": "吕力兢",
-                "img": "61wuyuan/13/llj.jpg",
+                "img": "61wuyuan/14/llj.jpg",
                 "position": "中场",
                 "locator": "CM"
             }
             ,{
                 "number": 55,
                 "name": "狄学长",
-                "img": "61wuyuan/13/ss.jpg",
+                "img": "61wuyuan/14/ss.jpg",
                 "position": "锋卫摇摆人",
                 "locator": "ST"
             }
@@ -87,27 +87,27 @@
             {
                 "number": 1,
                 "name": "姜伟海",
-                "img": "61wuyuan/13/jwh.jpg",
+                "img": "61wuyuan/14/jwh.jpg",
                 "position": "门将",
                 "locator": "GK"
             }
             ,{
                 "number": 16,
                 "name": "沙奔",
-                "img": "61wuyuan/13/sb.jpg",
+                "img": "61wuyuan/14/sb.jpg",
                 "position": "中场",
                 "locator": "LDM"
             }
             ,{
                 "number": 14,
                 "name": "周健",
-                "img": "61wuyuan/13/zj.jpg",
+                "img": "61wuyuan/14/zj.jpg",
                 "position": "中场"
             }
             ,{
                 "number": 5,
                 "name": "周林峰",
-                "img": "61wuyuan/13/zlf.jpg",
+                "img": "61wuyuan/14/zlf.jpg",
                 "position": "万金油"
             }
             ,{
@@ -135,7 +135,7 @@
             ,{
                 "number": 34,
                 "name": "周建亚",
-                "img": "61wuyuan/13/zjy.jpg",
+                "img": "61wuyuan/14/zjy.jpg",
                 "position": "前锋"
             }
             ,{
