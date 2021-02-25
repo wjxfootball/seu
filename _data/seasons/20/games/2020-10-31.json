@@ -7,7 +7,7 @@
       "key": "08zidonghua",
       "score": 1,
       "events": [
-        {"type": "yellow", "time": 23, "player": "赵世星"}
+        {"type": "goal", "time": 23, "player": "赵世星"}
       ]
   },
   "away": {
