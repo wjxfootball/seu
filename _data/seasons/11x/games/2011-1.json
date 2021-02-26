@@ -22,6 +22,7 @@
       "score": 1,
       "events": [
         {"type": "goal", "time": 55, "player": "胡江南"}
+        ,{"type": "yellow", "time": 75, "player": "刘念泽"}
       ]
   },
   "away": {
