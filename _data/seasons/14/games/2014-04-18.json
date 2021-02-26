@@ -1,0 +1,18 @@
+{
+  "date": "2014/04/18/12:00",
+  "type": "group-r4",
+  "schedule": true,
+  "extra": "数据丢失",
+  "home": {
+      "key": "11shengyi",
+      "score": 1,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "22yike",
+      "score": 0,
+      "events": [
+      ]
+  }
+}

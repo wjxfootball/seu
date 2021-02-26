@@ -1,6 +1,6 @@
 {
   "date": "2014/04/20/12:00",
-  "type": "group-r4",
+  "type": "group-r5",
   "images": [
     "1.jpg",
     "2.jpg",
@@ -27,8 +27,8 @@
       "score": 5,
       "events": [
         {"type": "goal", "time": 10, "player": "胡江南"}
-        ,{"type": "goal", "time": 20, "player": "吕力兢"}
-        ,{"type": "goal", "time": 25, "player": "吕力兢"}
+        ,{"type": "goal", "time": 20, "player": "吉相冰"}
+        ,{"type": "goal", "time": 25, "player": "刘明明"}
         ,{"type": "goal", "time": 35, "player": "吉相冰"}
         ,{"type": "goal", "time": 50, "player": "狄学长"}
       ]

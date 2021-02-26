@@ -1,0 +1,18 @@
+{
+  "date": "2014/04/13/12:00",
+  "type": "group-r5",
+  "schedule": true,
+  "extra": "数据丢失",
+  "home": {
+      "key": "13renwen",
+      "score": 1,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "12cailiao",
+      "score": 0,
+      "events": [
+      ]
+  }
+}

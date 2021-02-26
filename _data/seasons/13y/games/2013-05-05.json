@@ -1,6 +1,8 @@
 {
-  "date": "2014/04/13/12:00",
-  "type": "group-r3",
+  "date": "2013/05/05/12:00",
+  "type": "1/8-final",
+  "extra": "数据丢失",
+  "schedule": true,
   "images": [
     "1.jpg",
     "2.jpg",
@@ -34,18 +36,15 @@
     "30.jpg"
   ],
   "home": {
-      "key": "61wuyuan",
+      "key": "12cailiao",
       "score": 1,
       "events": [
-        {"type": "goal", "time": 49, "player": "狄学长"}
       ]
   },
   "away": {
-      "key": "13renwen",
-      "score": 2,
+      "key": "61wuyuan",
+      "score": 0,
       "events": [
-        {"type": "goal", "time": 46, "player": "??"}
-        ,{"type": "goal", "time": 51, "player": "??"}
       ]
   }
 }

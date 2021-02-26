@@ -3,34 +3,39 @@
   "type": "group + knockout",
   "group_stage": {
     "A": [
+      "25faxueyuan"
+      ,"07shuxue"
+      ,"42gongwei"
+      ,"19huagong"
+      ,"10wuli"
+    ],
+    "B": [
       "61wuyuan"
       ,"12cailiao"
       ,"13renwen"
       ,"11shengyi"
       ,"22yike"
-    ],
-    "B": [
     ]
   },
   "knockout_stage": [
     [
-      [],
+      ["19huagong", "12cailiao", "2014-04-27-2"],
       
-      [],
+      ["42gongwei", "11shengyi", "2014-04-26"],
 
       ["61wuyuan", "10wuli", "2014-04-27"],
 
-      []
+      ["13renwen", "07shuxue", "2014-04-27-3"]
     ],
     [
-      [],
+      ["19huagong", "42gongwei", "2014-05-10"],
       
       ["61wuyuan", "13renwen", "2014-05-10-1-2-final"]
     ],
     [
-      []
+      ["19huagong", "13renwen", ""]
     ]
   ],
   "winner": "13renwen",
-  "rules": ""
+  "rules": "*小组前四晋级淘汰赛"
 }

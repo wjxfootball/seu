@@ -1,0 +1,16 @@
+{
+  "date": "2014/05/10/12:00",
+  "type": "1/2-final",
+  "home": {
+      "key": "19huagong",
+      "score": 4,
+      "events": [
+      ]
+  },
+  "away": {
+      "key": "42gongwei",
+      "score": 3,
+      "events": [
+      ]
+  }
+}

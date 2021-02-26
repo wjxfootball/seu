@@ -1,0 +1,128 @@
+{
+    "display_name": "吴院",
+    "description": "14赛季作为全运会年分在小院组，本有机会创造历史，很可惜因最后时刻的角球乌龙被绝杀，倒在了半决赛上。",
+    "logo": "61wuyuan/logo.png",
+    "image": "61wuyuan/13/team.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "张云昊",
+                "img": "61wuyuan/13/zyh.jpg",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
+                "number": 2,
+                "name": "刘畅",
+                "img": "61wuyuan/13/lc.jpg",
+                "position": "后卫",
+                "locator": "LB"
+            }
+            ,{
+                "number": 43,
+                "name": "都之夏",
+                "img": "61wuyuan/13/dzx.jpg",
+                "position": "后卫",
+                "locator": "RCB"
+            }
+            ,{
+                "number": 16,
+                "name": "熊宽晨",
+                "img": "61wuyuan/13/xkc.jpg",
+                "position": "后卫",
+                "locator": "LCB"
+            }
+            ,{
+                "number": 55,
+                "name": "狄学长",
+                "img": "61wuyuan/13/ss.jpg",
+                "position": "后卫",
+                "locator": "RB"
+            }
+            ,{
+                "number": 36,
+                "name": "汤红健",
+                "img": "61wuyuan/13/thj.jpg",
+                "position": "后卫",
+                "locator": "LDM"
+            }
+            ,{
+                "number": 45,
+                "name": "潘登",
+                "img": "61wuyuan/13/pd.jpg",
+                "position": "中场",
+                "locator": "RDM"
+            }
+            ,{
+                "number": 47,
+                "name": "胡江南",
+                "img": "61wuyuan/13/hjn.jpg",
+                "position": "前锋",
+                "locator": "RM"
+            }
+            ,{
+                "number": 9,
+                "name": "胡煜明",
+                "img": "61wuyuan/13/hym.jpg",
+                "position": "中场",
+                "locator": "LM"
+            }
+            ,{
+                "number": 77,
+                "name": "袁金戈",
+                "img": "61wuyuan/13/yjg.jpg",
+                "position": "中场",
+                "locator": "CM"
+            }
+            ,{
+                "number": 11,
+                "name": "王朝",
+                "img": "61wuyuan/13/wz.jpg",
+                "position": "前锋",
+                "locator": "ST"
+            }
+        ],
+        "subs": [
+            {
+                "number": 12,
+                "name": "??",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
+                "number": 42,
+                "name": "周健",
+                "img": "61wuyuan/13/zj.jpg",
+                "position": "中场",
+                "locator": "LDM"
+            }
+            ,{
+                "number": 14,
+                "name": "沙奔",
+                "img": "61wuyuan/14/sb.jpg",
+                "position": "中场",
+                "locator": "LDM"
+            }
+            ,{
+                "number": 13,
+                "name": "沈圣",
+                "img": "61wuyuan/14/ss2.jpg",
+                "position": "中场"
+            }
+            ,{
+                "number": 34,
+                "name": "周建亚",
+                "img": "61wuyuan/14/zjy.jpg",
+                "position": "前锋"
+            }
+            ,{
+                "number": 10,
+                "name": "吉相冰",
+                "img": "61wuyuan/14/jxb.jpg",
+                "position": "前锋",
+                "locator": "LW"
+            }
+        ]
+    }
+}

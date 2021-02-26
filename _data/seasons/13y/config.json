@@ -1,0 +1,51 @@
+{
+  "display_name": "13院系杯",
+  "type": "group + knockout",
+  "group_stage": {
+    "A": [
+      "42gongwei",
+      "04xinxi",
+      "61wuyuan"
+    ],
+    "B": [
+    ]
+  },
+  "knockout_stage": [
+    [
+      ["13renwen", "08zidonghua", ""],
+      
+      ["02jixie", "14jingguan", ""],
+
+      ["09jiruan", "10wuli", ""],
+
+      ["42gongwei", "06dianzi", ""],
+
+      ["04xinxi", "16dianqi", ""],
+      
+      ["12cailiao", "61wuyuan", "2013-05-05"],
+
+      ["03nenghuan", "21jiaotong", ""],
+
+      ["05tumu", "22yike", ""]
+    ],
+    [
+      ["13renwen", "02jixie", ""],
+      
+      ["09jiruan", "42gongwei", ""],
+
+      ["04xinxi", "12cailiao", ""],
+
+      ["03nenghuan", "05tumu", ""]
+    ],
+    [
+      ["02jixie", "42gongwei", ""],
+      
+      ["04xinxi", "05tumu", ""]
+    ],
+    [
+      ["42gongwei", "05tumu", ""]
+    ]
+  ],
+  "winner": "42gongwei",
+  "rules": ""
+}

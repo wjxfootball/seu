@@ -1,0 +1,17 @@
+{
+  "date": "2013/xx/xx/12:00",
+  "type": "group-r1",
+  "home": {
+      "key": "61wuyuan",
+      "score": 1,
+      "events": [
+        {"type": "goal", "time": 15, "player": "周健"}
+      ]
+  },
+  "away": {
+      "key": "42gongwei",
+      "score": 5,
+      "events": [
+      ]
+  }
+}
