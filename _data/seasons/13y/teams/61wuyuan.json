@@ -100,7 +100,7 @@
             ,{
                 "number": 14,
                 "name": "沙奔",
-                "img": "61wuyuan/14/sb.jpg",
+                "img": "61wuyuan/13/sb.jpg",
                 "position": "中场",
                 "locator": "LDM"
             }
@@ -119,7 +119,7 @@
             ,{
                 "number": 10,
                 "name": "吉相冰",
-                "img": "61wuyuan/14/jxb.jpg",
+                "img": "61wuyuan/13/jxb.jpg",
                 "position": "前锋",
                 "locator": "LW"
             }
